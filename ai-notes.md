@@ -1,0 +1,1 @@
+# AI notes — prompts that worked, patterns learned, times it was confidently wrong
